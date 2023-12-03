@@ -1,5 +1,4 @@
 package com.salesmanager.shop.store.api.v1.catalog;
-
 import com.salesmanager.core.model.merchant.MerchantStore;
 import com.salesmanager.core.model.reference.language.Language;
 import com.salesmanager.shop.model.catalog.catalog.PersistableCatalog;
