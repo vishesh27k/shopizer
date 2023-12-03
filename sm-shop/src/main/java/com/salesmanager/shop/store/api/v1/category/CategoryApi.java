@@ -2,7 +2,6 @@ package com.salesmanager.shop.store.api.v1.category;
 
 import static org.springframework.http.HttpStatus.OK;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
-
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
